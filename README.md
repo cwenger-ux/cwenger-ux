@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... UX Design & CSS
 - 🌱 I’m currently learning ... React & Storybook
 - 💞️ I’m looking to collaborate on ... Helping others with CSS and challenging UX solutions
-- 📫 How to reach me ... cwenger-ux@gmail.com
 
 <!---
 cwenger-ux/cwenger-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
